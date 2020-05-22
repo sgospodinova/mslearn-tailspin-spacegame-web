@@ -1,0 +1,7 @@
+organization=sgospodinova
+projectKey=sgospodinova_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8217
+dashboardUrl=https://sonarcloud.io/dashboard?id=sgospodinova_mslearn-tailspin-spacegame-web
+ceTaskId=AXI8izVNMryUwHn35Ns5
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXI8izVNMryUwHn35Ns5
